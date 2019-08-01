@@ -1,8 +1,10 @@
 # Portfolio
 
-A basic website hosting my personal portfolio.
+A basic website hosting my personal portfolio.\
+[View online.](https://phquang98.github.io/dist/index.html)
 
 ## **Getting Started**
+
 
 Clone it to your repo, then view it using a web browser.
 
@@ -12,7 +14,7 @@ Running this using Open Live Server - an extension of VSC, is recommended.
 
 ## :page_facing_up: **Installing/Running**
 
-First, run `npm i` to download the necessary node-modules.
+First, run `npm i` to download the necessary node-modules.\
 When writing scss code, run `npm run sass` to have code in `.scss` coverted into `.css`
 
 ## :page_with_curl: **Deployment**
@@ -50,5 +52,4 @@ This repo is under GNU General Public License v3.
 
 ## :email: **Credits/Acknowledgments/References**
 
-This website was made using this tutorial.
-<https://www.youtube.com/watch?v=gYzHS-n2gqU>
+[This website was made using this tutorial.](https://www.youtube.com/watch?v=gYzHS-n2gqU)
